@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#To create file
+syntax: cat >filename
+ 
+ #To view file
+ syntax:cat filename
+
+ #To append file
+ syntax: cat >>filename
+
+ #display the records numbers 
+ syntax: cat -n filename
+
+ #create hidden files 
+ syntax:cat >.filename
