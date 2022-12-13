@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#move command is used to move files and directories to antother place
+
+syntax: mv file1 file2
+
+#move file to directory
+syntax: mv file dir1
+
+#directory to directory
+syntax: mv dir1 directoryname2
