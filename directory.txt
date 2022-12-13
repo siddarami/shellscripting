@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#to create directory
+syntax:mkdir directoryname
+
+# create multiple directory 
+syntac: mkdir directoyname1 directoryname2
+
+#create multilevel directory
+syntax: mkdir -p /directoryname1/d2/d3
+
+#to know the path 
+syntax: pwd
+
+#to change the path 
+syntax: cd directoryname
+
+#to move one step from the directory use this command 
+syntax: cd ..
+
+#to create hidden directories 
+syntax: mkdir .directoryname
