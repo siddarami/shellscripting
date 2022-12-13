@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#to dispaly the list of files 
+syntax: ls -l
+
+#to dispaly the hidden files 
+syntax: ls -a
+
+#dispaly all the files and directories in comma 
+syntax: ls -m
+
+#to show all linked files and directories
+syntax: ls @
+
+#copy the contect from one file to another file 
+syntax: cp file1 file2
+
+#copy the directory to directory
+syntax: cp dir1 directoryname2
+
