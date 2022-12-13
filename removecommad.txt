@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# to remove file 
+syntax: rm filename
+
+#to remove file forcibly
+syntax: rm -f filename
+
+#to remove multiple files
+syntax: rm file1 file2 file4
+
+#to remove directory
+syntax: rm directoyname1
+
+#to remove all directories and subdirectories 
+syntax: rm -r directory
+
+#TO Remove directory forcibly
+syntax: rm -rf directory
