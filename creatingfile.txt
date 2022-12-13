@@ -14,3 +14,6 @@ syntax: cat >filename
 
  #create hidden files 
  syntax:cat >.filename
+
+ #to create multiple files
+ syntax: cat >file1 >file2 >file2
