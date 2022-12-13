@@ -1,0 +1,2 @@
+# shellscripting
+some shellscripting examples
